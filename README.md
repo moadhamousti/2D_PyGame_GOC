@@ -1,1 +1,1 @@
-# 2D_PyGame_GOC
+# 2D PyGame GOC
