@@ -1,4 +1,4 @@
-#import pygame and os
+#import pygame and os 
 import pygame
 import os
 os.environ['SDL_VIDEODRIVER']='windib'
